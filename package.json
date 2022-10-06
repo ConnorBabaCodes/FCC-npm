@@ -3,6 +3,7 @@
 	"dependencies": {
 		"express": "^4.14.0"
 	},
+	"description" : "crash course on npm packages",
 	"author" : "connor Baba",
 	"main": "server.js",
 	"scripts": {
