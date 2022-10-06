@@ -2,9 +2,13 @@
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
+		
 	},
 	"description" : "crash course on npm packages",
 	"author" : "connor Baba",
+	"keywords": ["freecodecamp", "npm"],
+	"license" : "licensed",
+	"version": "1.0",
 	"main": "server.js",
 	"scripts": {
 		"start": "node server.js"
